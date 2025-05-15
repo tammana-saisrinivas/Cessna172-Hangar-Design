@@ -18,6 +18,7 @@ This repository contains the design files and documentation for a hangar specifi
 - 📝 Project planning, dimensioning, and layout optimization  
 
 
+
 ---
 
 ## 🚀 Key Features
@@ -37,7 +38,8 @@ This repository contains the design files and documentation for a hangar specifi
 
 ## 📄 License
 
-This project is provided for **educational and portfolio** purposes. Commercial use is prohibited without prior permission.
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for more information.
 
 ---
 
@@ -47,8 +49,4 @@ This project is provided for **educational and portfolio** purposes. Commercial 
 Design Intern – Vishwanath Projects Ltd  
 [Aeronautical Engineering Student]  
 🔗 [LinkedIn](#) | 💼 [Portfolio](#) | 📧 [Email](#)
-
-
-
-
 
